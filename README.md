@@ -1,6 +1,6 @@
 # Heat-Transfer
 
-The task was to calculate the temperature profile and heat transfer from the fin in the Images folder.
+The task was to calculate the temperature profile and heat transfer from the fin in the Images folder.(A rotary Fin with a Triangular cross-section)
 
 Given:
 
