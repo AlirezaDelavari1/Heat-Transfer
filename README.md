@@ -16,4 +16,4 @@ T_ambient = 30 C
 
 Pure Aluminium
 
-h = 150 W/k*m^2
+h = 150 W/K*m^2
